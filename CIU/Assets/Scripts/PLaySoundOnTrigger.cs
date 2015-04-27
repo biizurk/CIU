@@ -6,11 +6,13 @@ public class PLaySoundOnTrigger : MonoBehaviour {
 
 
 	public float fadeOutFactor = 0.1f;
+	public float audioTime;
 	float audioVolume;
 	
 	void OnTriggerEnter(Collider other) 
 	{
 		audio.Play();
+		audio.time = audioTime;
 	}
 	
 	void OnTriggerExit() 
