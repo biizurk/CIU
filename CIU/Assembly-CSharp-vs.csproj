@@ -46,8 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\PLaySoundOnTrigger.cs" />
+<<<<<<< HEAD
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+=======
+     <Compile Include="Assets\Scripts\Select.cs" />
+     <Compile Include="Assets\Scripts\SpeechText.cs" />
+>>>>>>> 042b9ace720d34141b785b2b010c9e79eb015a50
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/PC/Documents/CIUAssignment/CIU/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

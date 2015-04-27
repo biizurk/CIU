@@ -1,8 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PLaySoundOnTrigger.cs">
     <Files>
       <File FileName="Assets\Scripts\PLaySoundOnTrigger.cs" Line="15" Column="26" />
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpeechText.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Select.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\Interact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpeechText.cs" Line="27" Column="137" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Skyboxes\_skybox info.txt">
+    <Files>
+      <File FileName="Assets\Standard Assets\Skyboxes\_skybox info.txt" Line="1" Column="1" />
+>>>>>>> 28e839835f3b15a0a46cb319958d709d20581cce
+>>>>>>> 042b9ace720d34141b785b2b010c9e79eb015a50
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
