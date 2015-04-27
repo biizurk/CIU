@@ -46,7 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\PLaySoundOnTrigger.cs" />
+     <Compile Include="Assets\Scripts\Select.cs" />
+     <Compile Include="Assets\Scripts\SpeechText.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>Z:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
