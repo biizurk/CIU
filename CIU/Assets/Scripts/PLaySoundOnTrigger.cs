@@ -11,13 +11,19 @@ public class PLaySoundOnTrigger : MonoBehaviour {
 	
 	void OnTriggerEnter(Collider other) 
 	{
-		audio.Play();
-		audio.time = audioTime;
+		if (other.gameObject.tag == "MainCamera") 
+		{
+			audio.Play ();
+			audio.time = audioTime;
+		}
 	}
 	
-	void OnTriggerExit() 
+	void OnTriggerExit(Collider other) 
 	{
-		audio.Stop();
+		if (other.gameObject.tag == "MainCamera") 
+		{
+			audio.Stop ();
+		}
 	}
 	
 	public void fadeIn()
