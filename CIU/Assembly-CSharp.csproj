@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\PLaySoundOnTrigger.cs" />
+     <Compile Include="Assets\Scripts\RotateCube.cs" />
      <Compile Include="Assets\Scripts\Select.cs" />
      <Compile Include="Assets\Scripts\SpeechText.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />

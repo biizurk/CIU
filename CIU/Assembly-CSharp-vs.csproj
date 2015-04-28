@@ -48,15 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\PLaySoundOnTrigger.cs" />
+     <Compile Include="Assets\Scripts\RotateCube.cs" />
      <Compile Include="Assets\Scripts\Select.cs" />
      <Compile Include="Assets\Scripts\SpeechText.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
-<<<<<<< HEAD
  <HintPath>C:/Users/mburke10/Documents/CIU/CIU/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
-=======
- <HintPath>C:/Users/mallanson/Documents/CIU/CIU/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
->>>>>>> 7fe95fd18ebd766e50829baf413a778693f8635f
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
