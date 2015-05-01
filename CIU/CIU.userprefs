@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RotateCube.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpeechTextClassical.cs">
     <Files>
-      <File FileName="Assets\Scripts\RotateCube.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\PLaySoundOnTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpeechText.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\SpeechTextRock.cs" Line="26" Column="117" />
+      <File FileName="Assets\Scripts\SpeechTextRap.cs" Line="26" Column="133" />
+      <File FileName="Assets\Scripts\SpeechTextClassical.cs" Line="26" Column="123" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

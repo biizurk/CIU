@@ -24,7 +24,7 @@ public class SpeechText : MonoBehaviour
 
 				SpeechBoxTime += Time.deltaTime;
 
-				string[] DigitGreetings = {"Lad this is sick", "Mate where the bitchez at?","Yea, I know the DJ","Don't mess with me. I have cousins"};
+				string[] DigitGreetings = {"Follow me on Soundcloud", "Yea I discovered Deep House","Yea, I know the DJ","You wanna fight?"};
 				System.Random random = new System.Random ();
 				string quote = DigitGreetings [random.Next (DigitGreetings.Length)];
 //				if (m_Player != null) {
