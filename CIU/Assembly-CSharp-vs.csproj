@@ -46,12 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Controller.cs" />
      <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\PLaySoundOnTrigger.cs" />
      <Compile Include="Assets\Scripts\RotateCube.cs" />
      <Compile Include="Assets\Scripts\Select.cs" />
      <Compile Include="Assets\Scripts\SpeechText.cs" />
+     <Compile Include="Assets\Scripts\SpeechTextClassical.cs" />
+     <Compile Include="Assets\Scripts\SpeechTextRap.cs" />
+     <Compile Include="Assets\Scripts\SpeechTextRock.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/PC/Documents/CIUAssignment/CIU/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>

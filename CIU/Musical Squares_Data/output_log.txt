@@ -1,0 +1,57 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 67)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 3.682415 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3283.
+Total: 0.895380 ms (FindLiveObjects: 0.094266 ms CreateObjectMapping: 0.015058 ms MarkObjects: 0.213530 ms  DeleteObjects: 0.028008 ms)
+
+Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 3.963708 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 8.188532 ms (FindLiveObjects: 0.006926 ms CreateObjectMapping: 0.009637 ms MarkObjects: 0.126792 ms  DeleteObjects: 7.534389 ms)
+
