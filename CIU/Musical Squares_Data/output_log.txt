@@ -20,7 +20,7 @@ Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\
 Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.079 seconds
+- Completed reload, in  0.046 seconds
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -42,16 +42,16 @@ The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1771)
 
-UnloadTime: 3.682415 ms
+UnloadTime: 6.985054 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3283.
-Total: 0.895380 ms (FindLiveObjects: 0.094266 ms CreateObjectMapping: 0.015058 ms MarkObjects: 0.213530 ms  DeleteObjects: 0.028008 ms)
+Total: 0.986033 ms (FindLiveObjects: 0.090351 ms CreateObjectMapping: 0.015962 ms MarkObjects: 0.277679 ms  DeleteObjects: 0.039152 ms)
 
 Platform assembly: C:\Users\PC\Documents\CIUAssignment\CIU\Musical Squares_Data\Managed\Boo.Lang.dll (this message is harmless)
-UnloadTime: 3.963708 ms
+UnloadTime: 8.063547 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 181.
-Total: 8.188532 ms (FindLiveObjects: 0.006926 ms CreateObjectMapping: 0.009637 ms MarkObjects: 0.126792 ms  DeleteObjects: 7.534389 ms)
+Total: 7.648533 ms (FindLiveObjects: 0.018672 ms CreateObjectMapping: 0.033731 ms MarkObjects: 0.217746 ms  DeleteObjects: 6.576967 ms)
 
